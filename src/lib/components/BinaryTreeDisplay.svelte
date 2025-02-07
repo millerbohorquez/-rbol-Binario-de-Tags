@@ -17,7 +17,7 @@
 <style>
     .tag {
         display: inline-block;
-        background-color: #007bff;
+        background: linear-gradient(135deg, #4e7699, #42505b, #2868a0, #086ac0);
         color: white;
         padding: 5px 10px;
         border-radius: 5px;
@@ -27,7 +27,7 @@
     }
     .subtag {
         display: inline-block;
-        background-color: #28a745;
+        background: linear-gradient(135deg, #4e996b, #425b4c, #36a028, #08c07a); 
         color: white;
         padding: 3px 8px;
         border-radius: 3px;
